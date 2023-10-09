@@ -332,10 +332,10 @@ TextureImporter:
       name: coin_3
       rect:
         serializedVersion: 2
-        x: 248
-        y: 383
-        width: 50
-        height: 97
+        x: 334
+        y: 384
+        width: 27
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,27 +345,6 @@ TextureImporter:
       bones: []
       spriteID: 793fb5a0b46eaab4792abfa8c272e960
       internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: coin_4
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 383
-        width: 44
-        height: 97
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: abb5632e61b7ef34883f61264171244b
-      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -460,7 +439,7 @@ TextureImporter:
         serializedVersion: 2
         x: 663
         y: 383
-        width: 105
+        width: 63
         height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1483,6 +1462,27 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: coin_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 380
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9590e229d1e0d4ab295e79741da78b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -1498,6 +1498,7 @@ TextureImporter:
       coin_22: 21300044
       coin_3: 21300006
       coin_21: 21300042
+      coin_58: 1494306761
       coin_42: 21300084
       coin_39: 21300078
       coin_10: 21300020
